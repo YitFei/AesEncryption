@@ -1,0 +1,13 @@
+C:\Users\YitFei\source\repos\MTLicense\MTLicense\obj\Debug\netstandard2.0\MTLicense.csproj.AssemblyReference.cache
+C:\Users\YitFei\source\repos\MTLicense\MTLicense\obj\Debug\netstandard2.0\MTLicense.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YitFei\source\repos\MTLicense\MTLicense\obj\Debug\netstandard2.0\MTLicense.AssemblyInfoInputs.cache
+C:\Users\YitFei\source\repos\MTLicense\MTLicense\obj\Debug\netstandard2.0\MTLicense.AssemblyInfo.cs
+C:\Users\YitFei\source\repos\MTLicense\MTLicense\obj\Debug\netstandard2.0\MTLicense.csproj.CoreCompileInputs.cache
+C:\Users\YitFei\source\repos\MTLicense\MTLicense\bin\Debug\netstandard2.0\MTLicense.deps.json
+C:\Users\YitFei\source\repos\MTLicense\MTLicense\bin\Debug\netstandard2.0\MTLicense.dll
+C:\Users\YitFei\source\repos\MTLicense\MTLicense\bin\Debug\netstandard2.0\MTLicense.pdb
+C:\Users\YitFei\source\repos\MTLicense\MTLicense\obj\Debug\netstandard2.0\MTLicense.dll
+C:\Users\YitFei\source\repos\MTLicense\MTLicense\obj\Debug\netstandard2.0\MTLicense.pdb
+C:\Users\YitFei\Desktop\TheCATcher\Assets\_TheCATcher\MyLibrary\netstandard2.0\MTLicense.deps.json
+C:\Users\YitFei\Desktop\TheCATcher\Assets\_TheCATcher\MyLibrary\netstandard2.0\MTLicense.dll
+C:\Users\YitFei\Desktop\TheCATcher\Assets\_TheCATcher\MyLibrary\netstandard2.0\MTLicense.pdb
